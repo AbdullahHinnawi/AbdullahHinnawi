@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile 👋</h1>
+<h1 align="left">Welcome to My GitHub Profile 👋</h1>
 
 <!--
 **AbdullahHinnawi/AbdullahHinnawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
