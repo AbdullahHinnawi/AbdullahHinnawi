@@ -72,7 +72,7 @@ I have limited skills in
 ## Statistics
 
 <p>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHinnawi&size_weight=0.5&count_weight=0.5&exclude_repo=Metropolia&hide=html,Vue,Makefile&layout=compact" alt="lang-stats">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHinnawi&size_weight=0.5&count_weight=0.5&exclude_repo=Metropolia&hide=html,Vue,Makefile,CMake,CSS,SCSS,Shell,Procfile&layout=compact" alt="lang-stats">
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
